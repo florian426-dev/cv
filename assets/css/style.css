@@ -5,7 +5,9 @@
     font-family:"Raleway";
     src: url('../css/Fonts/Raleway/static/Raleway-Light.ttf') format(truetype);
 }
-
+*{
+  box-sizing: border-box;
+}
 body {
   font-family: "Raleway";
   font-weight: 600;
@@ -20,7 +22,6 @@ body h1 h2{
   width: 1160px;
   margin: auto;
   background: white;
-  box-sizing: border-box;
 }
 
 /* HEADER */
