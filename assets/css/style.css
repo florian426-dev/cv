@@ -187,6 +187,10 @@ footer img{
   width: 30px;
 }
 
+footer img:hover{
+  opacity: 0.5;
+}
+
 footer small{
     font-style: italic;
 }
